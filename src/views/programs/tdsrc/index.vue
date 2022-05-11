@@ -36,12 +36,6 @@
       >View The TDSRC Website</a
     >
   </Container>
-  <Container class="bg-accent-lightest">
-    <div class="text-center flex flex-col items-center">
-      <h2>Past Events</h2>
-      <div class="todo">add carousel</div>
-    </div>
-  </Container>
 </template>
 
 <script>
